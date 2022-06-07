@@ -1,0 +1,14 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\bin\Debug\netcoreapp3.1\Syntax and Sugar.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\bin\Debug\netcoreapp3.1\Syntax and Sugar.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\bin\Debug\netcoreapp3.1\Syntax and Sugar.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\bin\Debug\netcoreapp3.1\Syntax and Sugar.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\bin\Debug\netcoreapp3.1\Syntax and Sugar.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\bin\Debug\netcoreapp3.1\Syntax and Sugar.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\obj\Debug\netcoreapp3.1\Syntax and Sugar.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\obj\Debug\netcoreapp3.1\Syntax and Sugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\obj\Debug\netcoreapp3.1\Syntax and Sugar.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\obj\Debug\netcoreapp3.1\Syntax and Sugar.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\obj\Debug\netcoreapp3.1\Syntax and Sugar.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\obj\Debug\netcoreapp3.1\Syntax and Sugar.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\obj\Debug\netcoreapp3.1\Syntax and Sugar.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Syntax and Sugar\obj\Debug\netcoreapp3.1\Syntax and Sugar.genruntimeconfig.cache
